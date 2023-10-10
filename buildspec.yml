@@ -2,8 +2,8 @@ version: 0.2
 
 env:
   variables:
-    AWS_REGION: ap-south-1 # checkfor specific region
-    AWS_ACCOUNT_ID: 281290702866
+    AWS_REGION: us-east-1 # checkfor specific region
+    AWS_ACCOUNT_ID: 452273812571
     IMAGE_NAME: bluegreenrepo
     
 phases:
